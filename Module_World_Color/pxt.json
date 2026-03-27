@@ -1,12 +1,10 @@
 {
-    "name": "Module_World_Color",
+    "name": "module-world-color",
     "version": "0.0.2",
-    "description": "Extension for YahBoom YB_Module-World V0.0.2",
+    "description": "Module World Color Extension",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "main.ts"
@@ -14,6 +12,5 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true,
-    "preferredEditor": "tsprj"
+    "public": true
 }
