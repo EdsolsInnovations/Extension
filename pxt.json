@@ -1,0 +1,8 @@
+{
+  "name": "extension-root",
+  "version": "0.0.1",
+  "description": "Root for multi-extension repo",
+  "dependencies": {},
+  "files": [],
+  "public": false
+}
